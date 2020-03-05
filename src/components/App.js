@@ -13,5 +13,5 @@ export default function App() {
         console.log(error);
       });
   });
-  return <ReviewPage username={"bob"} />;
+  return <ReviewPage />;
 }
